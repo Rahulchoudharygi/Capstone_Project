@@ -18,10 +18,10 @@ This project investigates the operational, promotional, and macroeconomic driver
 
 ## 👥 Candidate & Academic Metadata
 
-* **Candidate Name:** [Your Name]
-* **Institute:** [Your Institute / University]
-* **Institute Roll No.:** [Your Roll Number]
-* **Enrollment No.:** IDRA-[Your Enrollment Number]
+* **Candidate Name:** Rahul Rolaniya
+* **Institute:** University of Engineering & Management jaipur
+* **Institute Roll No.:** 12023002001122
+* **Enrollment No.:** IDRA-2026-253264
 * **Program:** Data Science & AI Training Program (IDRA 2026)
 * **Academic Supervisor:** Dr. Shaheena Salam
 
